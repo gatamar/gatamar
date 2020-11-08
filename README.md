@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently I'm iOS/MacOS Software Engineer.
+I'm iOS/MacOS Software Engineer.
 I believe that making software is a craft, it's neither science nor art. 
 I am interested in the system design, TDD, performance, automation.
 Currently writing in Swift, Objc, C++, Python.
