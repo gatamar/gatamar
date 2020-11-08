@@ -25,3 +25,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Contact me
+<a href="https://www.linkedin.com/in/olha-pavliuk-2ba806197/">
+  <img alt="my linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
