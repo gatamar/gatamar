@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hi there! My name is Olha.
 
 I'm iOS/MacOS Software Engineer.
 I believe that making software is a craft, it's neither science nor art. 
 I am interested in the system design, TDD, performance, automation.
 Currently writing in Swift, Objc, C++, Python.
+
+### 🌱 I’m currently learning [a lot of stuff](https://gist.github.com/gatamar/2b14a2cdf3da82ef142f94af47f34c86#file-my_gist_tree-md)
 
 <!--
 **gatamar/gatamar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,7 +13,7 @@ Currently writing in Swift, Objc, C++, Python.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
