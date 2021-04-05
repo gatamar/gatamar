@@ -7,9 +7,7 @@ Currently writing in Swift, Objc, C++, Python.
 
 ### 🔭 I’m currently working in [a great product company](https://adva-soft.com) and also on my pet project 
 
-### 👯 I’m looking to collaborate on some developer tools (in Apple ecosystem)
-
-### 🌱 I’m currently learning [a lot of stuff](https://gist.github.com/gatamar/2b14a2cdf3da82ef142f94af47f34c86#file-my_gist_tree-md)
+### 🌱 I have kind of a blog [blog](http://github.com/gatamar/gist_blog)
 
 ### 📫 Contact me
 <a href="https://stackoverflow.com/users/2567725/olha">
