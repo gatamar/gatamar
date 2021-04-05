@@ -5,9 +5,9 @@ I believe that making software is a craft, it's neither science nor art.
 I am interested in the system design, TDD, performance, automation.
 Currently writing in Swift, Objc, C++, Python.
 
-### 🔭 I’m currently working in [a great product company](https://adva-soft.com) and also on my pet project 
+### 🔭 I’m currently working in a great product company and also on my pet project 
 
-### 🌱 I have kind of a blog [blog](http://github.com/gatamar/gist_blog)
+### 🌱 I have kind of a [blog](http://github.com/gatamar/gist_blog)
 
 ### 📫 Contact me
 <a href="https://stackoverflow.com/users/2567725/olha">
