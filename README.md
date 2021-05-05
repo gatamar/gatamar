@@ -7,8 +7,6 @@ Currently writing in Swift, Objc, C++, Python.
 
 ### 🔭 I’m currently working in a great product company and also on my pet project 
 
-### 🌱 I have kind of a [blog](http://github.com/gatamar/gist_blog)
-
 ### 📫 Contact me
 <a href="https://stackoverflow.com/users/2567725/olha">
   <img alt="stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/stackoverflow.svg" />
